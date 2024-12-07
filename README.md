@@ -6,6 +6,7 @@ The main goal of this assignment to ability to give proper python script to proc
 
 First thing i did is count total no of log enteries in the log file.
 As a part of assignment i did a few tasks based of the statment that is given.
+
 1)Counting requests per IP address - Calulate count and displayed in sorted order of request counts.
 
 2)Identfied most ferquent end points by using url in log file i.e log entry, finally displayed highest no of endpoint name and total no of end points.
